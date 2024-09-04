@@ -1,4 +1,4 @@
-# docsify-modele-classique
+# Unsupervized par Refik Anadol
 modèle de page docsify pour une publication via page sans actions 
 
 
