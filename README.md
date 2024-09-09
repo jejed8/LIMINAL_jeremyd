@@ -3,6 +3,8 @@ modèle de page docsify pour une publication via page sans actions
 ![hyper_organisms_website_images7](https://github.com/user-attachments/assets/b2f47984-92ad-429f-a214-0343384ee22f)
 
 
+## Informations Générales
+
 #### Artiste de l'œuvre :
 Louis-Philippe Rondeau
 
@@ -46,7 +48,12 @@ L'œuvre fut présenté pour la première fois le **20 décembre 2018** lors de 
 
 <br>
 
+### Objectif de l'œuvre
+> "À travers ses œuvres, Louis-Philippe Rondeau cherche à remettre en question des conventions de l’image photographique telles que l’instantanéité, le point de vue unique et la planéité. Ses installations interactives interprètent le corps autrement. Souvent axées sur le modus operandi du miroir, elles restituent la physionomie de l’interacteur de manière détournée à travers des dispositifs de représentation marginaux qui interrogent le rapport du spectateur à l’œuvre. Elles nous incitent à repenser la médiatisation par l’image, notamment son articulation spatiotemporelle."  - iMAL
+
 ### Public cible
+Le public que Louis-Philippe semble être un public de tous les âges. L'important pour lui est de susciter une réaction auprès du public et que celui-ci prenne part à l'interactivité de l'œuvre.
+<br>
 
 ## Aspects techniques
 
