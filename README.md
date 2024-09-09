@@ -1,5 +1,5 @@
 # LIMINAL par Louis-Philippe Rondeau
-modèle de page docsify pour une publication via page sans actions 
+
 ![hyper_organisms_website_images7](https://github.com/user-attachments/assets/b2f47984-92ad-429f-a214-0343384ee22f)
 
 
