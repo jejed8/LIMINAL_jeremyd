@@ -51,7 +51,7 @@ L'œuvre fut présenté pour la première fois le **20 décembre 2018** lors de 
 - Ordinateur Windows équipé du logiciel Touch Designer
 - Ensemble de câbles et adaptateurs accompagnant la caméra et l'arche
 
-#### Équipement fournie par l'artist
+#### Équipement fournie par l'artist:
 - Projecteur HD ou meilleur monté au plafond si possible.
 - Paire d'enceintes pour le son
 - Subwoofer
@@ -59,6 +59,12 @@ L'œuvre fut présenté pour la première fois le **20 décembre 2018** lors de 
 - Câbles audio
 - Câble HDMI pour connecter l'ordinateur et le projecteur
 - Optionnel: Un écran de projection si l'utilisation d'un mur n'est pas possible
+
+#### Fonctionnement des composantes:
+- Camera usb : Capte les mouvements des interacteurs
+- Ordinateurs Windows : Traite les images reçus par la caméra en temps réel avec l'aide du logiciel Touch designer. Envoie ensuite le resultat du traitement au projecteur et aux enceintes.
+- Enceintes : reçois le son traité par l'ordinateur
+
 
 ## Une composante centrale à l'œuvre et son fonctionnement
 
@@ -70,8 +76,14 @@ L'élément principal de l'œuvre est l'arche circulaire qui prend le rôle d'un
 La composante centrale est constituée d'une arche en aluminium illuminé dans lequel les interacteurs peuvent passer pour recevoir une numérisation de leur passage temporel par une projection sur le mur adjacent. Le rôle de la composante est plus esthétique puisqu'elle permet de capter l'attention des passants et son but est de stimuler l'engagement du public. Toutefois, l'arche est munie d'une caméra permettant de déclencher l'aspect interactif de l'œuvre en captant les mouvements de l'interacteur lorsqu'il franchit l'arche.
 
 ### Impression sur le public:
-> "Je pense aux séries The Time Tunnel, Stargate, le jeu vidéo Portal, le Holodeck dans Star Trek, etc." - Impression noté par Louis-Philippe Rondeau
+> "Je pense aux séries The Time Tunnel, Stargate, le jeu vidéo Portal, le Holodeck dans Star Trek, etc." -Impression noté par Louis-Philippe Rondeau
 
+> "Ce qu’il en résulte est une expérience à la fois ludique et contemplative. L’installation
+semble susciter un véritable enthousiasme auprès du public. Ayant été témoin de la
+manière dont les interacteurs abordent le dispositif, je constate non seulement leur
+désir d’interagir individuellement avec l’œuvre, mais également celui de collaborer
+collectivement à la réalisation d’un plaisir esthétique partagé. Je considère qu’il s’agit
+de mon œuvre la plus achevée à ce jour. Elle a connu une portée qui me dépasse" -Louis-Philippe Rondeau
 
 ## Sources
 - [sonic a](https://sonic-a.co.uk/portfolio/2022-liminal-louis-philippe-rondeau)
