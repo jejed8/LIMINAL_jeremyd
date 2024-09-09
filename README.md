@@ -1,5 +1,6 @@
 # LIMINAL par Louis-Philippe Rondeau
 modèle de page docsify pour une publication via page sans actions 
+![hyper_organisms_website_images7](https://github.com/user-attachments/assets/b2f47984-92ad-429f-a214-0343384ee22f)
 
 
 #### Artiste de l'œuvre :
@@ -39,10 +40,15 @@ L'œuvre fut présenté pour la première fois le **20 décembre 2018** lors de 
 ### Description générale de l'œuvre:
 
 *LIMINAL* est une installation interactive qui cherche à interpréter l’inexorable passage du temps. L'œuvre est constituée d'une grande arche circulaire et lumineuse qui représente un portail temporel entre le présent et le passé. Lorsque l'interacteur franchit celui-ci, son reflet projeté sur le mur adjacent se voit déployé dans le temps grâce à la technique du slit-scan. La projection est accompagnée d'un son dont la fréquence varie selon la position en hauteur de l'interacteur lorsqu'il franchit l'arche.
+<br>
+
+![1](https://github.com/user-attachments/assets/9b0272ca-26be-45b2-9517-02651acbadab)
 
 <br>
 
-## Aspect technique
+### Public cible
+
+## Aspects techniques
 
 ### Composantes de l'oeuvre
 #### Équipement fournie par l'artist:
@@ -60,14 +66,15 @@ L'œuvre fut présenté pour la première fois le **20 décembre 2018** lors de 
 - Câble HDMI pour connecter l'ordinateur et le projecteur
 - Optionnel: Un écran de projection si l'utilisation d'un mur n'est pas possible
 
-#### Fonctionnement des composantes:
-- Camera usb : Capte les mouvements des interacteurs
-- Ordinateurs Windows : Traite les images reçus par la caméra en temps réel avec l'aide du logiciel Touch designer. Envoie ensuite le resultat du traitement au projecteur et aux enceintes.
-- Enceintes : reçois le son traité par l'ordinateur
-  <br>
-<img width="1495" alt="Screenshot 2024-09-09 at 10 21 49 AM" src="https://github.com/user-attachments/assets/4b99ee28-abab-4089-9a74-28c827d956d9">
-<img width="1579" alt="Screenshot 2024-09-09 at 10 16 28 AM" src="https://github.com/user-attachments/assets/cc872c7e-8c7c-4aa5-9d1d-e30798769b17">
-<img width="1273" alt="Screenshot 2024-09-09 at 10 16 10 AM" src="https://github.com/user-attachments/assets/e35858b0-f651-4ed5-bd5d-d4d68ff90670">
+#### Fonctionnement des composantes techniques:
+- **Camera usb** : Capte les mouvements des interacteurs
+- **Ordinateurs Windows** : Traite les images reçus par la caméra en temps réel avec l'aide du logiciel Touch designer. Envoie ensuite le resultat du traitement au projecteur, aux enceintes et au subwoofer.
+- **Enceintes & subwoofer** : Reçois le son traité par l'ordinateur et les joues
+- **Projecteurs** : Reçois les images traitée par l'ordinateur et les projettent au public.
+  <br>s
+<img width="1495" alt="composantes" src="https://github.com/user-attachments/assets/4b99ee28-abab-4089-9a74-28c827d956d9">
+<img width="1579" alt="composantes" src="https://github.com/user-attachments/assets/cc872c7e-8c7c-4aa5-9d1d-e30798769b17">
+<img width="1273" alt="composantes" src="https://github.com/user-attachments/assets/e35858b0-f651-4ed5-bd5d-d4d68ff90670">
 
 
 ## Une composante centrale à l'œuvre et son fonctionnement
