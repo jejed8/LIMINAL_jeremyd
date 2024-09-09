@@ -111,7 +111,7 @@ collectivement à la réalisation d’un plaisir esthétique partagé. Je consid
 de mon œuvre la plus achevée à ce jour. Elle a connu une portée qui me dépasse" -Louis-Philippe Rondeau
 
 ## Appréciation et commentaire personnel 
-J'ai choisi cette œuvre, car j'ai beaucoup aimé une autre œuvre par Louis-Philippe Rondeau que j'ai eu l'opportunité de visiter en 2022 à la BIAN 6. Cette œuvre s'intitule *RÉSONANCES* s'apparente beaucoup à *LIMINAL* mais possède plusieurs différences dont un traitement vidéo différent et une structure différente. 
+J'ai choisi cette œuvre, car j'ai beaucoup aimé une autre œuvre par Louis-Philippe Rondeau que j'ai eu l'opportunité de visiter en 2023 à la BIAN 6. Cette œuvre s'intitule *RÉSONANCES* s'apparente beaucoup à *LIMINAL* mais possède plusieurs différences dont un traitement vidéo différent et une structure différente. 
 
 <br>
 ![Screenshot 2024-09-09 at 1 19 14 PM](https://github.com/user-attachments/assets/06760328-b4ad-4bb4-8dfa-c54b2eb03eed)
