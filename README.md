@@ -114,6 +114,9 @@ de mon œuvre la plus achevée à ce jour. Elle a connu une portée qui me dépa
 J'ai choisi cette œuvre, car j'ai beaucoup aimé une autre œuvre par Louis-Philippe Rondeau que j'ai eu l'opportunité de visiter en 2022 à la BIAN 6. Cette œuvre s'intitule *RÉSONANCES* s'apparente beaucoup à *LIMINAL* mais possède plusieurs différences dont un traitement vidéo différent et une structure différente. 
 
 <br>
+<img width="802" alt="Screenshot 2024-09-09 at 1 19 14 PM" src="https://github.com/user-attachments/assets/cd103462-2df5-4e1f-bd2c-60c181c2efd7">
+
+<br>
 
 Je crois que l'objectif que possède Louis-Philippe par rapport à l'œuvre est bien accompli. L'architecture de sa structure est très intéressante et intrigante. Elle nous donne l'envie d'aller y jeter un coup d'œil et de nous y intéresser. Je trouve aussi que l'approche à l'artiste de vouloir repenser la façon que de l'information est médiatisée est très intéressante et je trouve que le résultat reflète bien ses intentions.
 
