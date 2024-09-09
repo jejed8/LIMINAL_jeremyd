@@ -5,19 +5,19 @@ modèle de page docsify pour une publication via page sans actions
 
 ## Informations Générales
 
-#### Artiste de l'œuvre :
+### Artiste de l'œuvre :
 Louis-Philippe Rondeau
 
-#### Supporté par :
+### Supporté par :
 - Conseil des arts et des lettres du Québec
 - Gouvernement du Québec
 - Hexagram
 - École NAD - UCAQ
 
-#### Date de création : 2018
+### Date de création : 2018
 <br>
 
-#### Dévoilement de l'œuvre :
+### Dévoilement de l'œuvre :
 L'œuvre fut présenté pour la première fois le **20 décembre 2018** lors de l'évènement **IMAGINAD** au **Marché Bonsecours à Montréal**
 
 <br>
