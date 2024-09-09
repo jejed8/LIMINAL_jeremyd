@@ -8,11 +8,18 @@ modèle de page docsify pour une publication via page sans actions
 ### Artiste de l'œuvre :
 Louis-Philippe Rondeau
 
+<br>
+<img width="605" alt="Screenshot 2024-09-09 at 1 16 24 PM" src="https://github.com/user-attachments/assets/80fea12e-50c7-44ba-8c33-9cecd5b056ef">
+<br>
+
+
 ### Supporté par :
 - Conseil des arts et des lettres du Québec
 - Gouvernement du Québec
 - Hexagram
 - École NAD - UCAQ
+
+ <br>
 
 ### Date de création : 2018
 <br>
