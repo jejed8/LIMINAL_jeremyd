@@ -34,7 +34,7 @@ L'œuvre fut présenté pour la première fois le **20 décembre 2018** lors de 
 ### Contexte de présentation
 
 #### Contexte géographique et culturel
-
+Louis-Philippe Rondeau est professeur à École des arts numériques, de l'animation et du design de l’Université du Québec à Chicoutimi (NAD-UQAC). Ses oeuvres sont le fruit de ses anneés d'expériences dans le domaine de la post production. Ses recherches portent sur la représentation et la performance humaines dans un contexte média-archéologique. Il s’inspire d’une volonté de réinterpréter des formes de médias oubliés et négligés, à l’aide d’outils numériques contemporains. *LIMINAL* cherche à imagé le corps humain lors d'un passage spatio-temporel. 
 <br>
 
 ## Description de l'œuvre
