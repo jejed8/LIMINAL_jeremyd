@@ -42,6 +42,24 @@ L'œuvre fut présenté pour la première fois le **20 décembre 2018** lors de 
 
 <br>
 
+## Aspect technique
+
+### Composantes de l'oeuvre
+#### Équipement fournie par l'artist:
+- arche illuminée décomposée en 5 segments de 165cm de long avec un segment plat se retrouvant au sol.
+- Camera usb haute qualité
+- Ordinateur Windows équipé du logiciel Touch Designer
+- Ensemble de câbles et adaptateurs accompagnant la caméra et l'arche
+
+#### Équipement fournie par l'artist
+- Projecteur HD ou meilleur monté au plafond si possible.
+- Paire d'enceintes pour le son
+- Subwoofer
+- Un socle (environ un mètre cube) utilisé pour dissimuler l'ordinateur
+- Câbles audio
+- Câble HDMI pour connecter l'ordinateur et le projecteur
+- Optionnel: Un écran de projection si l'utilisation d'un mur n'est pas possible
+
 ## Une composante centrale à l'œuvre et son fonctionnement
 
 ### Composante centrale:
@@ -51,6 +69,9 @@ L'élément principal de l'œuvre est l'arche circulaire qui prend le rôle d'un
 ### Fonctionnement:
 La composante centrale est constituée d'une arche en aluminium illuminé dans lequel les interacteurs peuvent passer pour recevoir une numérisation de leur passage temporel par une projection sur le mur adjacent. Le rôle de la composante est plus esthétique puisqu'elle permet de capter l'attention des passants et son but est de stimuler l'engagement du public. Toutefois, l'arche est munie d'une caméra permettant de déclencher l'aspect interactif de l'œuvre en captant les mouvements de l'interacteur lorsqu'il franchit l'arche.
 
+### Impression sur le public:
+> "Je pense aux séries The Time Tunnel, Stargate, le jeu vidéo Portal, le Holodeck dans Star Trek, etc." - Impression noté par Louis-Philippe Rondeau
+
 
 ## Sources
 - [sonic a](https://sonic-a.co.uk/portfolio/2022-liminal-louis-philippe-rondeau)
@@ -59,3 +80,4 @@ La composante centrale est constituée d'une arche en aluminium illuminé dans l
 - [Patenteux - LIMINAL spécifications techniques](http://patenteux.com/wp/portfolio/liminal/)
 - [ELEKTRA Montreal](https://www.elektramontreal.ca/lp-rondeau-efqc?lang=fr)
 - [IMAL](https://www.imal.org/fr/events/hyper-organisms/louis-philippe-rondeau-liminal)
+- [Louis-Philippe Rondeau - Thèse UQAM](https://archipel.uqam.ca/16574/1/D4367.pdf)
