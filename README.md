@@ -64,6 +64,10 @@ L'œuvre fut présenté pour la première fois le **20 décembre 2018** lors de 
 - Camera usb : Capte les mouvements des interacteurs
 - Ordinateurs Windows : Traite les images reçus par la caméra en temps réel avec l'aide du logiciel Touch designer. Envoie ensuite le resultat du traitement au projecteur et aux enceintes.
 - Enceintes : reçois le son traité par l'ordinateur
+  <br>
+![Liminal-PERS-01](https://github.com/user-attachments/assets/28be4862-b019-484f-a1ad-16a1a3d02dd1)
+<img width="1579" alt="Screenshot 2024-09-09 at 10 16 28 AM" src="https://github.com/user-attachments/assets/cc872c7e-8c7c-4aa5-9d1d-e30798769b17">
+<img width="1273" alt="Screenshot 2024-09-09 at 10 16 10 AM" src="https://github.com/user-attachments/assets/e35858b0-f651-4ed5-bd5d-d4d68ff90670">
 
 
 ## Une composante centrale à l'œuvre et son fonctionnement
